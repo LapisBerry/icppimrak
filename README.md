@@ -8,3 +8,5 @@ VR supported???
 Or just play the game by using WebGL...
 
 Oh come on just click the link and play it!
+
+https://lapisberry.github.io/icppimrak/
